@@ -1,2 +1,2 @@
 # Google_Sheets_-_Calendar_Automation
-Developed a Google Apps Script-based automated scheduling system that synchronizes events from multiple Google Sheets to Google Calendar.
+Developed a Google Apps Script-based automated scheduling system that synchronizes events from multiple Google Sheets to Google Calendar. The script efficiently manages individual calendars for team members, handling full-day and half-day events, color-coding entries based on predefined sheet indicators, and ensuring real-time accuracy by updating, adding, or removing calendar events. Implemented robust error handling, concurrency control, and dynamic month parsing, significantly streamlining scheduling workflows and improving calendar accuracy for organizational coordination.
